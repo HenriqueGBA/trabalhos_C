@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+//calculo de hipotenusa
 int main(){
     int cateto1, cateto2, hipotenusa, soma_catetos;
 

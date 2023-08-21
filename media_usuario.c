@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//media de 3 numeros//
+//media de 3 numeros
 int main(){
     int num1, num2, num3, media;
 
